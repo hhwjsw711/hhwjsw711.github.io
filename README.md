@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 头盔检测应用
 
-You can use the [editor on GitHub](https://github.com/hhwjsw711/hhwjsw711.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+戴头盔是减少摩托车和自行车碰撞造成的头部受伤和死亡的最有效方法。不戴头盔的摩托车手头部受伤和死于这些伤害的风险要高得多 - WHO（世界卫生组织）。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为了提高骑摩托车和自行车的人的安全性，这里有头盔检测应用程序，这是一个人工智能驱动的计算机视觉应用程序，有助于自动检测骑摩托车和自行车的人的头盔。
 
 ### Markdown
 
