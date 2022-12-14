@@ -14,10 +14,6 @@
 
 ![](./images/box.png)
 
-#### 视频
-
-<video autoplay="autoplay" controls="controls" controlslist="nodownload" src="./images/box.mp4" style="max-width: 100%; height: auto;">&nbsp;</video>
-
 ### 联系方式
 
 胡洪伟 17855831981
