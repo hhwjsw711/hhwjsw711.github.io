@@ -2,15 +2,9 @@
 
 戴头盔是减少摩托车和自行车碰撞造成的头部受伤和死亡的最有效方法。不戴头盔的摩托车手头部受伤和死于这些伤害的风险要高得多 - WHO（世界卫生组织）。
 
-为了提高骑摩托车和自行车的人的安全性，这里有头盔检测应用程序，这是一个人工智能驱动的计算机视觉应用程序，有助于自动检测骑摩托车和自行车的人的头盔。
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ![](./images/helmet.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+为了提高骑摩托车和自行车的人的安全性，这里有头盔检测应用程序，这是一个人工智能驱动的计算机视觉应用程序，有助于自动检测骑摩托车和自行车的人的头盔。
 
 ### Jekyll Themes
 
