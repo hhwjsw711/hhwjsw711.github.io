@@ -16,7 +16,7 @@
 
 #### 视频
 
-![](./images/box.mp4)
+<video autoplay="autoplay" controls="controls" controlslist="nodownload" src="./images/box.mp4" style="max-width: 100%; height: auto;">&nbsp;</video>
 
 ### 联系方式
 
